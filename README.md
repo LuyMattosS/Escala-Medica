@@ -7,5 +7,7 @@
 Para rodar esse projeto na sua maquina é necessario ter instalado:
 
 ```
-
+- Java 17
+- PostgreSQL 13.10
+- TomCat 10
 ```
